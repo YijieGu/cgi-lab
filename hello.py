@@ -14,6 +14,4 @@ import json
 
 print ("Content-Type: text/html") 
 print ()
-print (f"<p> QUERY_STRING = {os.environ['QUERY_STRING']}</p>")
-print()
 print (f"<p> QUERY_STRING = {os.environ['HTTP_USER_AGENT']}</p>")
