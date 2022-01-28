@@ -12,8 +12,8 @@ class FollowingTheTAsInstructionsError(Exception):
         ))
 
 # Edit the following two lines:
-username = "<ggg>"
-password = "<888>"
+username = "ggg"
+password = "888"
 
 
 
